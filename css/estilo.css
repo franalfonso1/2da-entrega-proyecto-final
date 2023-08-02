@@ -3,10 +3,10 @@
     font-family: 'Montserrat', sans-serif;
     color: black;
 }
-.fotoLogo {
+/* .fotoLogo {
     height: 15%;
     width: 15%;
-}
+} */
 a { 
     text-decoration: none;
 }
@@ -17,3 +17,4 @@ footer {
     height: 200px;
     
 }
+
