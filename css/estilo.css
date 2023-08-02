@@ -1,0 +1,19 @@
+.menuNavegacion {
+    background-color: #D6DBDF;
+    font-family: 'Montserrat', sans-serif;
+    color: black;
+}
+.fotoLogo {
+    height: 15%;
+    width: 15%;
+}
+a { 
+    text-decoration: none;
+}
+
+footer {
+    background-color: #D6DBDF;
+    width: 100%;
+    height: 200px;
+    
+}
